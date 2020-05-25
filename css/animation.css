@@ -1,0 +1,47 @@
+
+/* Main title Effects */
+@keyframes slideFromRight{
+    0%{
+       transform: translateX(1000px);
+       opacity:0.2;
+    }
+    100%{
+      transform: scale(0px);
+      opacity: 1;
+    }
+  }
+  @keyframes slideFromLeft{
+    0%{
+       transform: translateX(-2000px);
+       opacity:0.2;
+    }
+    100%{
+      transform: scale(0px);
+      opacity: 1;
+    }
+  }
+  /* Main title Effects */
+
+  /* Subtitle Effects */
+  @keyframes subtitleShow{
+    0%{
+       opacity:0;
+    }
+    100%{
+      opacity: 1;
+    }
+  }
+  /* Subtitle Effects */
+
+/* Button Effects */
+@keyframes showButton {
+    0%{
+      transform: scale(3);
+      opacity: 0;
+    }
+    100%{
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+/* Button Effects */
