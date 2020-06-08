@@ -4,7 +4,7 @@
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>MS : : Bolo Caseiro</title>
+        <title>MS : : Negócio Online</title>
         <!-- CSS Styles -->
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="stylesheet" type="text/css" href="css/animation.css">
@@ -52,7 +52,7 @@
                 <div class="menu">  
                     <ul>
                          <li> <a href="index.php" title="Home">Home</a> </li>
-                        <li> <a href="#" style="background-color:rgba(255, 116, 4, 0.5);" title="Bolos Caseiros">Bolo Caseiro</a> </li>
+                        <li> <a href="#" style="background-color:rgba(255, 116, 4, 0.5);" title="Negócio Online">Negócio Online</a> </li>
                     </ul>
                     <hr class="hr-menu">
                 </div>  
@@ -62,12 +62,12 @@
             <!-- Header Titles -->
             <div class="boloc-header-title">
                 <h1 class="boloc-title">
-                    <span>Saiba Mais : : </span><strong>B</strong>olos <strong>C</strong>aseiros
+                    <span>Saiba Mais : : </span><strong>N</strong>egócio <strong>O</strong>nline
                 </h1>
                 <hr class="hr-bc-header">
                 <p class="boloc-subtitle">
-                    Que bom te ver aqui e saber que você não é apenas uma curiosa(o)  e esta focada(o)  em fazer da produção e venda de Bolos Caseiros a sua fonte de renda.
-                    Acredite, você esta a um passo de transformar a sua vida...
+                    Que bom te ver aqui e saber que você não é apenas uma curiosa(o)  e esta focada(o)  em aprender a produzir e realizar vendas atrasvés da internet podendo se tornar sua principal fonte de renda.
+                    Acredite, você esta a um passo de transformar a sua vida!!!
                 </p>
                 <a href="#conhecer" class="boloc-header-button">Conhecer</a>
             </div>
@@ -77,11 +77,9 @@
         <!------------------------- Header ------------------------->
 
 
-
         <!-- Divider --> 
         <div class="content-divider" id="conhecer"></div> 
         <!-- Diver -->
-
 
 
         <!------------------------- Intro Section ------------------------->
@@ -93,14 +91,14 @@
                 </h1>
                 <hr class="hr-intro">
                 <p class="intro-text">
-                    Aprenda uma nova de ganhar dinheiro... Mesmo sendo uma total iniciante deixe a confeitaria transformar a sua vida! Aprenda a produzir os bolos mais pedidos do momento e conquiste sua independência financeira. Com todas as técnicas reveladas, macetes e dicas para você aprender de forma descomplicada a lotar sua agenda de encomendas.Venha ser a próxima melhor boleira ou boleiro da sua cidade!!
+                    Essa é a SUA oportunidade de ganhar dinheiro através da INTERNET, mesmo sendo um total iniciante deixe a Internet junto ao Marketing Digital transformar a sua vida! Aprenda a criar seu NEGÓCIO na Internet do zero passo a passo e conquiste sua independência financeira no conforto da sua casa.
                 </p>
                 <!-- Intro Video -->
                 <article class="intro-video">
                     <iframe 
                         width="" 
                         height="" 
-                        src="https://www.youtube.com/embed/1hokpTqzt-E?autoplay=1;mute=0" 
+                        src="https://www.youtube.com/embed/A6CvHJmeX-E?autoplay=1;mute=0" 
                         frameborder="0" 
                         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                     </iframe>
@@ -111,17 +109,13 @@
         <!------------------------- Intro Section ------------------------->
 
 
-
-
-
-
         <!------------------------- Product Content 1 Section ------------------------->
         <section class="prod-content">
 
             <article class="content-img">
                 <div class="content-img-container">
-                    <a href="https://go.hotmart.com/A26885040R?ap=5b80" target="_blank" title="Adquira Já o Seu">
-                        <img src="midia/images/bolo-caseiro/page-cake-1.jpg" alt="Bolos Caseiros"  title="Imagem Ilustrativa" class="img">
+                    <a href="https://go.hotmart.com/C34793247D?ap=6bd7" target="_blank" title="Adquira Já o Seu">
+                        <img src="midia/images/negocio-curso.jpg" alt="Negócio Online"  title="Imagem Ilustrativa" class="img">
                      </a>
                 </div>
             </article>
@@ -132,20 +126,18 @@
                 </h1>
                 <hr class="hr-prod-content">
                 <p class="content-text">
-                    O curso de Bolos Caseiros da Vovó é focada em um processo simples de aprendizagem, pois através de Receitas completas, com todo o passo a passo, dicas especiais, mais o meu suporte individual para tirar todas as suas dúvidas, vou te mostrar como fazer da produção e venda de Bolos Caseiros a sua fonte de renda e melhorar extraordinariamente a sua vida!!! 
+                    O conteúdo do treinamento é 100% Online e ficará disponível para você em seu e-mail. Você receberá os dados de acesso imediatamente após a compra caso seja feita no cartão de crédito. Para pagamentos em Boleto, o prazo de compensação do boleto é de 1 a 3 dias úteis. Tendo acesso ao material e às aulas é vitalício. Você pode fazer no seu ritmo, quando e onde quiser. Seu acesso não expira. Com suporte a um grupo VIP com uma equipe preparada para te ajudar com todas as suas dúvidas. Também vai poder fazer network com os melhores alunos e aprender as técnicas de vendas de todos eles.
                 </p>
-                <a href="https://go.hotmart.com/A26885040R" target="_blank" title="Mais Detalhes" alt="Adquira Já" class="content-prod-button"> Mais Detalhes</a>
+                <a href="https://go.hotmart.com/C34793247D?ap=af6b" target="_blank" title="Mais Detalhes" alt="Adquira Já" class="content-prod-button"> Maiores Detalhes</a>
                 </article>
 
                 <div class="clear-fix"></div>
         </section>
         <!------------------------- Product Content 1 Section ------------------------->
 
-
         <!-- Divider --
         <div class="content-divider" id="start"></div> 
         <!- Diver -->
-
 
         <!------------------------- Product Content 2 Section ------------------------->
         <section class="prod-content" style="background:#fff;">
@@ -156,18 +148,18 @@
                 </h1>
                 <hr class="hr-prod-content hr-prod-content-2">
                 <p class="content-text content-text-2">
-                    Este conteúdo é especialmente voltado as pessoas que desejam se tornar confeiteiras (os) profissionais em sua cidade e que ainda não possuem domínio total e nada melhor que começar de forma simples e com bolos caseiros que são os que tem saída rápida. 
+                    Você vai aprender as melhores plataformas para realizar vendas diárias. E tudo isso sem precisar gastar um centavo com ferramentas e automações ou anúncios. 100% Orgânico (Sem Investir). O passo a passo mesmo que seja iniciante e nunca tenha trabalhado com vendas antes, em um passo a passo único que ninguém ensina! Segredo para conseguir vendas todos os dias está na forma como você se comunica com o seu cliente. Por isso preparei um módulo completo dedicado a isso. Com as técnicas que eu mesmo uso no dia a dia.
                     <br><br>
-                    Qualquer dúvida basta entrar em contato com nosso suporte e esclarecer suas maiores dúvidas! Você nunca estará sozinha!
+                    Aprenda como as grandes pessoas do mercado digital utilizam anúncios do Facebook para trabalharem no automático. E também aprender como transformar seu Instagram em uma fonte de vendas inesgotável, sem precisar de milhares de seguidores
                 </p>
-                <a href="https://go.hotmart.com/A26885040R?ap=d5d7" target="_blank" class="content-prod-button content-prod-button-2" title="Mais Detalhes"> Mais Detalhes</a>
+                <a href="https://go.hotmart.com/C34793247D?ap=af6b" target="_blank" class="content-prod-button content-prod-button-2" title="Mais Detalhes"> Maiores Detalhes</a>
                 <div class="clear-fix"></div>
             </article>
 
             <article class="content-img">
                 <div class="content-img-container content-img-container-2 ">
-                    <a href="https://go.hotmart.com/A26885040R?ap=5b80" target="_blank" alt="Adquira Já" title="Adquira Já o Seu">
-                        <img src="midia/images/bolo-caseiro/page-cake-2.jpg" alt="Bolos Caseiros" title="Imagem Ilustrativa" class="img"/>
+                    <a href="https://go.hotmart.com/C34793247D?ap=6bd7" target="_blank" alt="Adquira Já" title="Adquira Já o Seu">
+                        <img src="midia/images/negocio-online-content.jpg" alt="Bolos Caseiros" title="Imagem Ilustrativa" class="img"/>
                     </a>
                 </div>
             </article>
@@ -175,10 +167,6 @@
             <div class="clear-fix"></div>
         </section>
         <!------------------------- Product Content 2 Section ------------------------->
-
-
-
-
 
 
         <!------------------------- Purchase Section ------------------------->
@@ -190,9 +178,9 @@
                 </h1>
                 <hr class="hr-purchase">
                 <p class="purchase-text">
-                    Vou te mostrar como você pode se destacar no mercado, lotar a sua agenda de encomendas e melhorar sua vida e de sua família com a produção e venda de Bolos Extraordinários... Está esperando o que para dar o primeiro passo e mudar de Vida?! SIM! Eu quero adquirir minha Apostila de Bolos Caseiros da Vovó e ter minha renda extra com a  Confeitaria!
+                    Vou te mostrar como você é possivél ganhar dinheiro através da INTERNET, montar seu própio negócio online e melhorar sua vida e de sua família financeiramente... Está esperando o que para dar o primeiro passo e mudar de Vida?! Diga SIM, para a mudança!!
                 </p>
-                <a href="https://go.hotmart.com/A26885040R?ap=5b80" target="_blanck" title="Adquira Já o Seu" class="purchase-button">Sim Eu Quero! </a>
+                <a href="https://go.hotmart.com/C34793247D?ap=6bd7" target="_blanck" title="Adquira Já o Seu" class="purchase-button">Sim Eu Quero! </a>
             </div>
 
         </section>
@@ -223,10 +211,6 @@
 
         </footer>
         <!------------------------- Footer -------------------------> 
-
-
-
-
 
 
         <!-- JS Scripts -->

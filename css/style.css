@@ -776,12 +776,14 @@ header.boloc-header{
         rgba(0, 0, 0, 0.85),
         rgba(0, 0, 0, 0.5)
       ),
-      url("../midia/images/bolo-caseiro/header-bolo-caseiro.jpg");
+      url("../midia/images/header-negocio-online.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-clip: border-box;
+    background-size: cover;
 }
+
+/*
 header.docec-header-bg{
   background: 
   linear-gradient(
@@ -789,7 +791,6 @@ header.docec-header-bg{
     /*
     rgba(117, 76, 22, 0.9),
     rgba(122, 80, 24, 0.5),
-    */
     rgba(0, 0, 0, 0.85),
     rgba(0, 0, 0, 0.5)
   ),
@@ -799,6 +800,7 @@ header.docec-header-bg{
   background-attachment: fixed !important;
   background-clip: border-box !important;
 }
+*/
 
 header div.boloc-header-title{
   position: absolute;

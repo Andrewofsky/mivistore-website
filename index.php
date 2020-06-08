@@ -37,8 +37,7 @@
                 <div class="menu">  
                     <ul>
                         <li> <a href="#topo" title="Home">Home</a> </li>
-                        <li> <a href="#Bolo-Caseiro" title="Bolos Caseiros">Bolos Caseiro</a> </li>
-                        <li> <a href="#Caseiros" title="Caseirinhos">Doces Caseiro</a> </li>
+                        <li> <a href="#Negocio-Online" title="Negócio Online">Negócio Online</a> </li>
                     </ul>
                     <hr class="hr-menu">
                 </div>  
@@ -121,14 +120,14 @@
         <!------------------------- Product Section -------------------------> 
 
         <!----- Product 1 -----> 
-        <section class="prod-section" id="Bolo-Caseiro">
+        <section class="prod-section" id="Negocio-Online">
             <h1 style="display:none;">Produto</h1>
             
             <div class="prod-center">
                 <!-- First Column -->
                 <article class="prod-img">
                     <div class="prod-img-container">
-                        <img src="midia/images/bolo-caseiro.jpg" alt="Bolos Caseiros" title="Bolos Caseiros" class="prod-picture"/>
+                        <img src="midia/images/negocio-online.jpg" alt="Enriqueça Online" title="Enriqueça Online" class="prod-picture"/>
                     </div>
                 </article>
                 <!-- First Column -->
@@ -136,57 +135,21 @@
                 <!-- Second Column -->
                 <article class="prod-info">
                     <div class="prod-title">
-                        <h2 class="prod-title">Bolos Caseiros</h2>
+                        <h2 class="prod-title">Negócio Online</h2>
                         <h3 class="prod-subtitle">
-                            Oportunidade de ganhar dinheiro fazendo Bolos no conforto da sua casa.
+                        GERAR RENDA PELA INTERNET NOS DIAS DE HOJE É REALMENTE POSSÍVEL?
                         </h3>
                     </div>
                     <p class="prod-text">
-                        Uma nova oportunidade de ganhar dinheiro!! Mesmo sendo uma total iniciante deixe a confeitaria transformar a sua vida! Aprenda a produzir os bolos mais pedidos do momento e conquiste sua independência financeira no conforto da sua casa.
+                        Essa é a SUA oportunidade de ganhar dinheiro através da INTERNET, mesmo sendo um total iniciante deixe a Internet junto ao Marketing Digital transformar a sua vida! Aprenda a criar seu NEGÓCIO na Internet do zero passo a passo e conquiste sua independência financeira no conforto da sua casa.
                     </p>
-                    <a href="bolo-caseiro.php" class="prod-button" title="Bolo Caseiros" target="_blank">Saiba Mais</a>
+                    <a href="negocio_online.php" class="prod-button" title="Enriqueça Online" target="_blank">Venha saber Mais</a>
                 </article>
                 <!-- Second Column -->
                 <div class="clear-fix"></div>
             </div>
         </section>
         <!----- Product 1 -----> 
-
-
-
-
-        <!----- Product 2 -----> 
-        <section class="prod-section" style="background-color:#fff" id="Caseiros">
-            <h1 style="display:none;">Produto</h1>
-            
-            <div class="prod-center"> 
-                <!-- First Column -->          
-                <article class="prod-info">            
-                    <div class="prod-title">
-                        <h2 class="prod-title">Doces Caseirinhos</h2>
-                        <h3 class="prod-subtitle">
-                            Gosta de doces?! Essa é sua oportunidade de aprender o passo a passo de como faze-los e ainda poder vende-los!! 
-                        </h3>
-                    </div>
-                    <p class="prod-text">
-                        Para implementar sua renda extra ou aprender uma nova modalidade!! Mesmo sendo uma total iniciante deixe a confeitaria transformar a sua vida aprendendo a produzir os doces caseiros mais deliciosos e claro mais vendidos atualmente e com isso conquiste sua independência financeira sem sair de casa.
-                    </p>
-                    <a href="doce-caseiro.php" title="Doces Caseiros" alt="Doces Caseiros" target="_blank" class="prod-button">Saiba Mais</a>
-                </article>
-                <!-- First Column -->
-
-                <!-- Second Column -->
-                <article class="prod-img-2">
-                    <div class="prod-img-container">
-                        <img src="midia/images/doce-caseiro.png" alt="Doce Caseiro" class="prod-picture"/>
-                    </div>
-                </article>
-                <!-- Second Column -->
-                <div class="clear-fix"></div>
-            </div>
-        </section>
-        <!----- Product 2 -----> 
-
         <!------------------------- Product Section ------------------------->
 
 

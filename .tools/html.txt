@@ -1,0 +1,31 @@
+<!----- Product 2 -----> 
+        <section class="prod-section" style="background-color:#fff" id="Caseiros">
+            <h1 style="display:none;">Produto</h1>
+            
+            <div class="prod-center"> 
+                <!-- First Column -->          
+                <article class="prod-info">            
+                    <div class="prod-title">
+                        <h2 class="prod-title">Doces Caseirinhos</h2>
+                        <h3 class="prod-subtitle">
+                            Gosta de doces?! Essa é sua oportunidade de aprender o passo a passo de como faze-los e ainda poder vende-los!! 
+                        </h3>
+                    </div>
+                    <p class="prod-text">
+                        Para implementar sua renda extra ou aprender uma nova modalidade!! Mesmo sendo uma total iniciante deixe a confeitaria transformar a sua vida aprendendo a produzir os doces caseiros mais deliciosos e claro mais vendidos atualmente e com isso conquiste sua independência financeira sem sair de casa.
+                    </p>
+                    <a href="doce-caseiro.php" title="Doces Caseiros" alt="Doces Caseiros" target="_blank" class="prod-button">Saiba Mais</a>
+                </article>
+                <!-- First Column -->
+
+                <!-- Second Column -->
+                <article class="prod-img-2">
+                    <div class="prod-img-container">
+                        <img src="midia/images/doce-caseiro.png" alt="Doce Caseiro" class="prod-picture"/>
+                    </div>
+                </article>
+                <!-- Second Column -->
+                <div class="clear-fix"></div>
+            </div>
+        </section>
+        <!----- Product 2 -----> 
